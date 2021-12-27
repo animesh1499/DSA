@@ -6,7 +6,6 @@
  * @author Me
  *
  */
-//Reverse the array 
 public class Solution {
 
 	/**
